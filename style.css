@@ -80,7 +80,10 @@ h5 {
 }
 
 .price {
-  color: rgb(0, 13, 255);
+  color: rgb(53, 13, 171);
+  del {
+    color: rgb(171, 13, 50);
+  }
 }
 
 .row::after {
